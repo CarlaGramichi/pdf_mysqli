@@ -79,7 +79,7 @@
                 },
                 {data: 'fecha_creacion', name: 'fecha_creacion'},
                 {data: 'titulo', name: 'titulo'},
-                {data: 'cuerpo', name: 'cuerpo'}
+                {data: 'extracto', name: 'extracto'}
             ]
         });
 

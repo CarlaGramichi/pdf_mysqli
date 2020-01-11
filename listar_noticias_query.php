@@ -2,7 +2,7 @@
 
 //**variables para la conexion**//
 $servidor = 'localhost';
-$bd = 'noticias_pdf';
+$bd = 'car_comentarios';
 $usuario = 'root';
 $contrasena = '';
 $puerto = '3306';
